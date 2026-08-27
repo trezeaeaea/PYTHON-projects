@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "intermediary": [
     "Create a function that checks if a number is prime.",
@@ -24,3 +25,5 @@
     "Create a simple calculator (+, -, *, /)."
   ]
 }
+=======
+>>>>>>> f19dad2 (Fix exercises.json format)
