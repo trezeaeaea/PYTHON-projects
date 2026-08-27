@@ -1,5 +1,5 @@
 {
-"intermediary" : [
+  "intermediary": [
     "Create a function that checks if a number is prime.",
     "Count the number of vowels in a string.",
     "Find the largest number in a list.",
@@ -10,11 +10,8 @@
     "Count the frequency of each word in a sentence.",
     "Generate the Fibonacci sequence up to N terms.",
     "Create a password generator with random letters, numbers, and symbols."
-]
-}
-{
-
-"noob" : [
+  ],
+  "noob": [
     "Print 'Hello, World!' to the console.",
     "Ask the user for their name and greet them.",
     "Check if a number is even or odd.",
@@ -25,5 +22,5 @@
     "Calculate the factorial of a number.",
     "Print all even numbers between 1 and 50.",
     "Create a simple calculator (+, -, *, /)."
-]
+  ]
 }
