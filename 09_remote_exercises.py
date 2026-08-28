@@ -11,7 +11,7 @@ exercise_url = "https://raw.githubusercontent.com/trezeaeaea/PYTHON-projects/ref
 
 try:
     response = requests.get(exercise_url)
-    response.
+    response.raise_for_status()
     exercises = response.json()
     print("Exercises loaded from GitHub.")
     
