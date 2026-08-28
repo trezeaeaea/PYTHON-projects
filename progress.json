@@ -1,5 +1,10 @@
 {
     "level": "noob",
     "current_exercise": "Create a multiplication table.",
-    "completed": false
+    "completed": false,
+    "completed_exercises": 2,
+    "history": [
+        "Create a multiplication table.",
+        "Create a multiplication table."
+    ]
 }
