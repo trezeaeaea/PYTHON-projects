@@ -1,20 +1,7 @@
 {
     "level": "noob",
-    "current_exercise": "Create a multiplication table.",
+    "current_exercise": "Print 'Hello, World!' to the console.",
     "completed": false,
-    "completed_exercises": 12,
-    "history": [
-        "Create a multiplication table.",
-        "Create a multiplication table.",
-        "Create a multiplication table.",
-        "Create a multiplication table.",
-        "Create a multiplication table.",
-        "Create a multiplication table.",
-        "Create a multiplication table.",
-        "Create a multiplication table.",
-        "Create a multiplication table.",
-        "Create a multiplication table.",
-        "Create a multiplication table.",
-        "Create a multiplication table."
-    ]
+    "completed_exercises": 0,
+    "history": []
 }
