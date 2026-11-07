@@ -15,7 +15,7 @@ elif moyenne_notes >=14:
 elif moyenne_notes >=10:
     print("Congratulation")
 elif moyenne_notes < 10:
-    print("You're a big shit")
+    print("Don't worry about this")
 
 
     
